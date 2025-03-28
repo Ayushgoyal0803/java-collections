@@ -1,0 +1,2 @@
+Hello world, hello Java!
+Hello Java, welcome to the world of coding.
